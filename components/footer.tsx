@@ -47,7 +47,7 @@ export function Footer() {
             </p>
             <a
               href="mailto:info.thewebsitewala@gmail.com"
-              className="group inline-flex items-start gap-3 text-xl md:text-5xl font-light tracking-tight leading-tight hover:text-white/70 transition-colors"
+              className="group inline-flex items-start gap-3 text-xl md:text-4xl font-light tracking-tight leading-tight hover:text-white/70 transition-colors"
             >
               info.thewebsitewala@gmail.com
               <ArrowUpRight className="w-6 h-6 md:w-8 md:h-8 mt-1 shrink-0 transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1" />
