@@ -126,11 +126,11 @@ export function Footer() {
               London
             </h3>
             <address className="not-italic text-sm leading-relaxed text-white/80">
-              4a Seven Ways Parade
+              London
               <br />
-              Woodford Avenue
+              Little Ilford
               <br />
-              IG2 6XH, United Kingdom
+              United Kingdom
             </address>
             <a
               href="tel:+447349584838"
