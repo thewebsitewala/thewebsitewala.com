@@ -128,9 +128,9 @@ export function Footer() {
             <address className="not-italic text-sm leading-relaxed text-white/80">
               London
               <br />
-              Little Ilford
+              25A Woordford Avenue, Gantshill Ilford IG2 6UF
               <br />
-              United Kingdom
+              London, United Kingdom
             </address>
             <a
               href="tel:+447349584838"
@@ -144,18 +144,18 @@ export function Footer() {
             <h3 className="text-xs uppercase tracking-[0.2em] text-white/40 mb-5">
               Mumbai
             </h3>
-            <address className="not-italic text-sm leading-relaxed text-white/80">
+            {/* <address className="not-italic text-sm leading-relaxed text-white/80">
               Building No. 3A, Ss Amrutwar Marg
               <br />
               Maya Nagar, Siddharth Nagar, Worli
               <br />
-              Mumbai, Maharashtra 400018
-            </address>
+              Mumbai, Maharashtra 
+            </address> */}
             <a
               href="tel:+917666401860"
               className="inline-block text-sm mt-4 text-white/80 hover:text-white transition-colors"
             >
-              +91 76664 01860
+              +91 9136858496
             </a>
           </div>
 
