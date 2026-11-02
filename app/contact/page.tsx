@@ -11,25 +11,14 @@ export const metadata: Metadata = {
 
 const offices = [
   {
-    city: "London",
+    city: "Contact Info",
     lines: [
-      "4a Seven Ways Parade",
-      "Woodford Avenue",
-      "IG2 6XH, United Kingdom",
+      "25A Woodford Avenue, Gantshill, London, United Kingdom",
+      "IG2 6UF",
     ],
-    phone: "07349 584838",
-    tel: "+447349584838",
-  },
-  {
-    city: "Mumbai",
-    lines: [
-      "Building No. 3A, Ss Amrutwar Marg",
-      "Maya Nagar, Siddharth Nagar, Worli",
-      "Mumbai, Maharashtra 400018",
-    ],
-    phone: "+91 76664 01860",
-    tel: "+917666401860",
-  },
+    phone: "+91 91368 58496",
+    
+  }
 ];
 
 export default function ContactPage() {
