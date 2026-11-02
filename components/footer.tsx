@@ -123,41 +123,20 @@ export function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 py-16">
           <div data-animate>
             <h3 className="text-xs uppercase tracking-[0.2em] text-white/40 mb-5">
-              London
+              CONTACT INFO
             </h3>
             <address className="not-italic text-sm leading-relaxed text-white/80">
-              London
-              <br />
-              25A Woordford Avenue, Gantshill IG2 6UF
-              <br />
-              London, United Kingdom
+              25A Woodford Avenue, Gantshill, London, United Kingdom <br/> IG2 6UF
             </address>
             <a
-              href="tel:+447349584838"
+              href="tel:+919136858496"
               className="inline-block text-sm mt-4 text-white/80 hover:text-white transition-colors"
             >
-              07349 584838
+              +91 91368 58496
             </a>
           </div>
 
-          <div data-animate style={{ ["--reveal-delay" as string]: "100ms" }}>
-            <h3 className="text-xs uppercase tracking-[0.2em] text-white/40 mb-5">
-              Mumbai
-            </h3>
-            <address className="not-italic text-sm leading-relaxed text-white/80">
-              Building No. 3A, Ss Amrutwar Marg
-              <br />
-              Maya Nagar, Siddharth Nagar, Worli
-              <br />
-              Mumbai, Maharashtra
-            </address>
-            <a
-              href="tel:+917666401860"
-              className="inline-block text-sm mt-4 text-white/80 hover:text-white transition-colors"
-            >
-              +91 9136858496
-            </a>
-          </div>
+          
 
           <div
             className="lg:col-span-2 lg:flex lg:items-end lg:justify-end"
