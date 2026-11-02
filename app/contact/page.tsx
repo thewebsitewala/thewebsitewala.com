@@ -82,7 +82,7 @@ export default function ContactPage() {
                   Quick chat
                 </h2>
                 <a
-                  href="https://wa.me/917666401860?text=Hi%20The%20Website%20Wala%2C%20I%27d%20like%20to%20discuss%20a%20project."
+                  href="https://wa.me/919136858496?text=Hi%20The%20Website%20Wala%2C%20I%27d%20like%20to%20discuss%20a%20project."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 hover:text-muted-foreground transition-colors"
